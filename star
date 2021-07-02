@@ -1,0 +1,4 @@
+tcs
+hcl
+dell
+intel
